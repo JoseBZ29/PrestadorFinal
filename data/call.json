@@ -1,0 +1,19 @@
+{
+    "cell" : [
+        {
+            "titulo" : "titulo 1",
+            "descripcion" : "desc 1",
+            "imagen": "https://via.placeholder.com/100x100"
+        },
+        {
+            "titulo" : "titulo 2",
+            "descripcion" : "desc 2",
+            "imagen": "https://via.placeholder.com/100x100"
+        },
+        {
+            "titulo" : "titulo 3",
+            "descripcion" : "desc 3",
+            "imagen": "https://via.placeholder.com/100x100"
+        }
+    ]
+}

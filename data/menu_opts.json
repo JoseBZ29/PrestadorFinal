@@ -1,0 +1,19 @@
+{
+    "rutas" : [
+        {
+            "ruta" : "cuenta",
+            "icon" : "cuenta",
+            "texto": "Cuenta"
+        },
+        {
+            "ruta" : "pagos",
+            "icon" : "tarjeta",
+            "texto": "Pagos"
+        },
+        {
+            "ruta" : "ayuda",
+            "icon" : "ayuda",
+            "texto": "Ayuda"
+        }
+    ]
+}

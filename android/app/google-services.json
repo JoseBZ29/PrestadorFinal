@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "562691267241",
+    "firebase_url": "https://kellogs-60767.firebaseio.com",
+    "project_id": "kellogs-60767",
+    "storage_bucket": "kellogs-60767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562691267241:android:543e35f22defaf14de27b8",
+        "android_client_info": {
+          "package_name": "com.arggos.mrfinal.final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562691267241-86upcr1akvfkks8f4ht9gjkpfbjh51o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqTsE-OkOKRHdgReVVP3rbtdRRFQFwulg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562691267241-86upcr1akvfkks8f4ht9gjkpfbjh51o4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562691267241-jbrd3rks7clo767ongelsotfdsvvj1b5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrmx.prestador2020"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562691267241:android:e237c6041e2e6bc1de27b8",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562691267241-7taqu4nb3478vaqftargtl2a77j3qslo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce",
+            "certificate_hash": "e2e249c1aa85b1d8c7d88481521f9baea1b14e04"
+          }
+        },
+        {
+          "client_id": "562691267241-eu74usjogsqst1dm3a5dtg7oa6a5bgg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce",
+            "certificate_hash": "01fee3a2b2e3e3bfc1f2ba8aba9f2e8a7336abe1"
+          }
+        },
+        {
+          "client_id": "562691267241-uog7aohnqk6nn1aom0mjaaki4pfct97i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce",
+            "certificate_hash": "c3a7203ef703f956de3e6e338492159087894170"
+          }
+        },
+        {
+          "client_id": "562691267241-86upcr1akvfkks8f4ht9gjkpfbjh51o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqTsE-OkOKRHdgReVVP3rbtdRRFQFwulg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562691267241-86upcr1akvfkks8f4ht9gjkpfbjh51o4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562691267241-jbrd3rks7clo767ongelsotfdsvvj1b5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrmx.prestador2020"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562691267241:android:eb7cf3b5fc47ddb6de27b8",
+        "android_client_info": {
+          "package_name": "com.mr.prestador_final.final_2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562691267241-86upcr1akvfkks8f4ht9gjkpfbjh51o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqTsE-OkOKRHdgReVVP3rbtdRRFQFwulg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562691267241-86upcr1akvfkks8f4ht9gjkpfbjh51o4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562691267241-jbrd3rks7clo767ongelsotfdsvvj1b5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrmx.prestador2020"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
